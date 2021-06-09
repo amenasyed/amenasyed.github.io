@@ -1,0 +1,250 @@
+/* Imported from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+/* colours */
+/* navbar background: #102762 */
+/* light mint green: #E7FFFE */
+/* orange: #F5A66E */
+/* light orange: #EED7C6*/
+/* navy blue: #3165A9 */
+/* dark grey: #3E3E3E;*/
+
+
+/* navbar */
+nav {
+    background-color: #102762 !important;
+}
+
+.navbar-brand {
+    margin-top: -5px;
+    
+}
+
+.nav-item a {
+    color: #E7FFFE !important;
+    margin: 0 10px;
+    font-weight: 500;
+    font-size: 19px;
+    transition: 0.3s;
+}
+
+.nav-item a:hover {
+    transform:translateY(-4px);
+}
+
+/* index.html */
+
+.intro-body{
+    background-image: url("images/desert.png");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.intro-text{
+    padding: 200px 0;
+}
+
+.intro-text h1 {
+    color: #FFFFFF;
+    font-size: 50px;
+    text-shadow: 8px 8px 4px rgba(0, 0, 0, 0.5);
+}
+
+.intro-text h3 {
+    color: #FFFFFF;
+    text-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+}
+
+.intro-text a {
+    padding: 10px 40px;
+    margin: 10px 5px;
+    border-radius: 25px;
+    background-color: #F5A66E;
+    border-color: #F5A66E;
+    box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+    transition: 300ms;
+}
+
+    .intro-text a:hover {
+        background-color: #EED7C6;
+        transform: translateY(-8px);
+        border-color: #EED7C6;
+    }
+
+/* about.html */
+
+.about-content img{
+    border-radius: 3px;
+}
+.about-content h1 {
+    padding: 20px 0;
+    color: #3E3E3E;
+}
+
+.about-content h2 {
+    margin-top: 10px;
+    font-size: 28px;
+    color: #3E3E3E;
+}
+
+.about-content h4 {
+    font-weight: 400;
+    font-size: 18px;
+    margin: 20px 0;
+    color: #21426F;
+}
+
+.about-content p {
+    font-weight: 300;
+    color: #3E3E3E;
+}
+
+.bucket-list-content {
+    margin-left: 20px;
+}
+
+.bucket-list-content li{
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.gallery{
+    display: flex;
+    margin: 0 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.gallery h3{
+    margin-bottom: 30px;
+}
+
+.gallery a{
+    padding: 10px 10px;
+    transition: 300ms;
+}
+
+    .gallery a:hover {
+        transform: scale(1.1);
+        
+    }
+
+/* projects.html */
+
+.my-projects h1{
+    padding: 20px 0;
+}
+
+.my-projects h2 {
+    font-size: 24px;
+    color: #3165A9;
+    margin-bottom: -10px;
+}
+
+.projects-container {
+    padding: 30px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project-card {
+    background: #E2EAF4;
+    margin: 20px;
+    display: inline-block;
+    transition: 300ms;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+    .project-card:hover {
+        box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.4);
+        transform: translateY(-8px);
+    }
+
+.proj-body {
+    color: #3E3E3E;
+    padding: 0px 20px;
+    width: 350px;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+    .proj-body h5 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .proj-body h4 {
+        font-size: 16px;
+        color: #21426F;
+    }
+
+    .proj-body h3{
+        font-size: 22px;
+    }
+
+    .proj-body p{
+        font-size: 13px;
+    }
+
+    .proj-body a {
+        color: #21426F;
+        font-weight: 500;
+        font-size: 14px;
+        display: flex;
+        margin-top: 10px;
+        margin-right: 10px;
+        text-decoration: none;
+    }
+
+
+/* contact section */
+.contact-container {
+    background: #EED7C6;
+    border-top: 6px solid #F5A66E;
+    margin: 0 !important;
+    height: auto;
+    width: 100%;
+}
+.contact-content h3{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 400;
+}
+
+.social-buttons{
+    padding-bottom: 30px;
+}
+
+.social-buttons a {
+    padding: 15px 15px;
+    background-color: #FFF6EE;
+    border-radius: 15px;
+    transition: 300ms;
+    margin: 0 7px;
+    display: inline-block;
+}
+
+    .social-buttons a:hover {
+        transform: translateY(-8px);
+        box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+    }
+
+/* footer */
+footer {
+    background-color: #EED7C6;
+    padding-bottom: 5px;
+}
