@@ -1,0 +1,45 @@
+:root{
+    --background: #F7F6F1;
+    --primary-font: #204665;
+    --secondary-font: #646967;
+    --tertiary-font: #7A8FA0;
+    --highlight: #FBF4B0;
+    --fontBlue: #204665;
+    --fontGrey: #646967;
+    --backBlue: #E2EAF1;
+    --backGrey: #ECECEC;
+
+    --serif: 'Libre Baskerville', serif;
+    --sans-primary: 'Quicksand', sans-serif;
+    --sans-secondary: 'Lato', sans-serif;
+}
+
+.project-container{
+    margin-right: 100px;
+    margin-top: 20px;
+    border: 3px solid var(--primary-font);
+    border-radius: 10px;
+    transition: 0.3s;
+    animation: ease-in-out;
+
+}
+
+.project-container:hover{
+    box-shadow: 5px 5px 0 0 var(--primary-font);
+    transform:scale(1.05);
+}
+
+.project-text{
+    margin-bottom: 10px;
+}
+
+.project-container h3{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.project-container p{
+    margin-top: 20px;
+}
+
+

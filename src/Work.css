@@ -1,0 +1,30 @@
+:root{
+    --background: #F7F6F1;
+    --primary-font: #204665;
+    --secondary-font: #646967;
+    --tertiary-font: #7A8FA0;
+    --highlight: #FBF4B0;
+    --fontBlue: #204665;
+    --fontGrey: #646967;
+    --backBlue: #E2EAF1;
+    --backGrey: #ECECEC;
+
+    --serif: 'Libre Baskerville', serif;
+    --sans-primary: 'Quicksand', sans-serif;
+    --sans-secondary: 'Lato', sans-serif;
+}
+
+.work-container{
+    margin-left: 120px;
+    margin-bottom: 100px;
+}
+
+.toggle-btns{
+    justify-content: center;
+}
+
+.pressed{
+    background-color: var(--backGrey);
+    color: var(--fontGrey);
+    box-shadow: 3px 3px 0 0 var(--fontGrey);
+}
