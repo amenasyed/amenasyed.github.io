@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import {Grid} from "@mui/material";
-import me from "/Users/amenasyed/portfolio/src/images/me.png";
+import me from "./images/me.png";
 import "./About.css"
 
 function About() {
