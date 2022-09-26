@@ -19,8 +19,8 @@ function Navbar() {
             <a href="/" className="nav-logo">a|s</a>
 
             <nav className="nav-menu" ref={navRef}>
-                <a href="/work" className="nav-item">work</a>
-                <a href="/about" className="nav-item">about</a>
+                <a href="#/work" className="nav-item">work</a>
+                <a href="#/about" className="nav-item">about</a>
                 <a href={resume} className="nav-item">resume</a>
                 <a href="mailto:a74syed@uwaterloo.ca" className="nav-item">contact</a>
                 <button className="nav-btn nav-close-btn" onClick={showNavbar}>

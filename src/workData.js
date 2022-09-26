@@ -39,7 +39,7 @@ const workData = [
         tag:"Software",
         title: "Portfolio",
         date: "Personal Project | September 2022",
-        body1:"This personal portfolio was built with React (using React Router for page routing) and Material UI, and hosted on Github.",
+        body1:"This personal portfolio was built with React (using React Router for page routing), Material UI, and hosted on Github.",
         body2:"Technologies: React, Material UI, GitHub",
         linkName:"GitHub",
         linkURL:"https://github.com/amenasyed/amenasyed.github.io"
@@ -51,7 +51,19 @@ const workData = [
         title: "CEMCOD Website Redesign",
         date: "Engineers Without Borders | April 2022",
         body1:"Redesigned CEMCOD’s website using HTML/CSS in Wordpress, streamlining access to digital media for 250+ members in Uganda.",
-        body2:"Technologies: Wordpress, HTML/CSS, Figma",
+        body2:"Technologies: Wordpress, HTML/CSS, Figma"
+
+    },
+
+    {
+        id: 6,
+        tag:"Data",
+        title: "BME 2025 Class Profile",
+        date: "Design Project | September 2022",
+        body1:"An initiative that seeks to gather the collective experiences of University of Waterloo's Biomedical Engineering Class of 2025. Individual insights were gathered from the class via a survey, and the results were analyzed and visually depicted with Python.",
+        body2:"Technologies: Python, GitHub, Google Sheets",
+        linkName:"GitHub",
+        linkURL:"https://github.com/JJamali/BME25-Class-Profile"
 
     },
 

@@ -70,8 +70,8 @@ function Work() {
                     <button value="All" onClick={handleBtns} className={btnStyle} >all</button>
                     <button value="Software" onClick={handleBtns} className={btnStyle} >software</button>
                     <button value="Hardware" onClick={handleBtns} className={btnStyle} >hardware</button>
-                    {/* <button value="Data" onClick={handleBtns} className={btnStyle} >data</button>
-                    <button value="UX/UI" onClick={handleBtns} className={btnStyle} >ux/ui</button> */}
+                    <button value="Data" onClick={handleBtns} className={btnStyle} >data</button>
+                    {/* <button value="UX/UI" onClick={handleBtns} className={btnStyle} >ux/ui</button> */}
                 </div>
 
                 {projectItem.map(createProject)}
