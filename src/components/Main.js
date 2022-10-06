@@ -11,12 +11,12 @@ function Main() {
         <div className="main-container">
             <div className="main-text">
                 <div className="landing-page">
-                    <h1>Hello! I'm Amena 🌼; a third year biomedical engineering student ⛅ studying at the University of Waterloo 🤍</h1>
+                    <h1>Hello! I'm Amena 🌼; a biomedical engineering student ⛅ studying at the University of Waterloo 🤍</h1>
                     <h3>Currently developing<a href="https://global.medical.canon/" className="underline">@Canon</a>. Previously<a href="https://www.centrefordigitaltherapeutics.ca/" className="underline">@University Health Network</a>. Seeking <span className="underline">Summer 2023 SWE internship opportunities.</span></h3>
             
                  <div className="main-btns">
-                        <a href="/work">
-                            <button href="/work" className="btn-blue">work</button>
+                        <a href="#/work">
+                            <button href="#/work" className="btn-blue">work</button>
                         </a>
 
                         <a href={resume}>
