@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d5748be24601fc34f29a",
+    "revision": "50415f457b21209a7fff",
     "url": "/static/css/main.23fe3dc7.chunk.css"
   },
   {
-    "revision": "d5748be24601fc34f29a",
-    "url": "/static/js/main.d5748be2.chunk.js"
+    "revision": "50415f457b21209a7fff",
+    "url": "/static/js/main.50415f45.chunk.js"
   },
   {
     "revision": "be058c9d2152c226c543",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "fb4acac8bb7cf21d4138d22fb24e68a2",
-    "url": "/static/media/amena-resume-winter-2023.fb4acac8.pdf"
+    "revision": "26e87ab50c36bcde2ef5a2412e0dd5bd",
+    "url": "/static/media/amena-resume-winter-2023.26e87ab5.pdf"
   },
   {
     "revision": "d5b12d5f5aadf6ae52eed876cfeb36de",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/me.61588d25.png"
   },
   {
-    "revision": "84645e7ec7cd36a9932908497c9e317a",
+    "revision": "d10ce0c229ab38af537ec912afe7c159",
     "url": "/index.html"
   }
 ];
