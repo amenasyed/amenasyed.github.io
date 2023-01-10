@@ -3,7 +3,7 @@ import {FaBars, FaTimes} from "react-icons/fa";
 import {useRef} from "react";
 import {Link} from "react-router-dom";
 import "./Navbar.css";
-import resume from "../images/amena-resume-2022.pdf";
+import resume from "../images/amena-resume-winter-2023.pdf";
 
 function Navbar() {
 

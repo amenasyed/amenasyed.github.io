@@ -11,7 +11,7 @@ function Footer() {
                     <a href="mailto:a74syed@uwaterloo.ca"><FaEnvelope></FaEnvelope> </a>
                     <a href="https://github.com/amenasyed"><FaGithub></FaGithub></a>
                 </p>
-                <p>Made with 🍯 by Amena Syed © 2022</p>
+                <p>Made with 🍯 by Amena Syed © 2023</p>
             </footer>
         </div>
     );
