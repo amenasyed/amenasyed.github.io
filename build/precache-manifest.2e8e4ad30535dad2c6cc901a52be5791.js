@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "6b7c90121473949796e3",
-    "url": "/static/css/main.d0402bfb.chunk.css"
+    "revision": "50415f457b21209a7fff",
+    "url": "/static/css/main.23fe3dc7.chunk.css"
   },
   {
-    "revision": "6b7c90121473949796e3",
-    "url": "/static/js/main.6b7c9012.chunk.js"
+    "revision": "50415f457b21209a7fff",
+    "url": "/static/js/main.50415f45.chunk.js"
   },
   {
-    "revision": "0b92a2631632987b889a",
-    "url": "/static/js/1.0b92a263.chunk.js"
+    "revision": "be058c9d2152c226c543",
+    "url": "/static/js/1.be058c9d.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "c2fd6c9bcb4c7deaf798f1c64d0fb442",
-    "url": "/static/media/amena-resume-2022.c2fd6c9b.pdf"
+    "revision": "26e87ab50c36bcde2ef5a2412e0dd5bd",
+    "url": "/static/media/amena-resume-winter-2023.26e87ab5.pdf"
   },
   {
     "revision": "d5b12d5f5aadf6ae52eed876cfeb36de",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/me.61588d25.png"
   },
   {
-    "revision": "f5fc0b14cb2f0e44182c50fb69a23364",
+    "revision": "d10ce0c229ab38af537ec912afe7c159",
     "url": "/index.html"
   }
 ];
