@@ -47,7 +47,7 @@ function About() {
                     </Grid>
 
                     <Grid item className="hobby" sm={12} md={5}>
-                        <h3 className="hobby-title">🧶 Avid knitter/crocheter</h3>
+                        <h3 className="hobby-title">🧶 Avid knitter</h3>
 
                         <p className="hobby-content">My toxic trait is spending waaaaay too much money on yarn. It's true! Once I actually got 30+ balls of yarn at a garage sale for $10. My mum was not impressed. </p>
                         <ul className="hobby-content">
