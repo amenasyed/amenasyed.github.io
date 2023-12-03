@@ -5,7 +5,7 @@ import {Grid} from "@mui/material";
 import ai from "../images/ai.png";
 import marifa from "../images/marifa.png";
 import moodFM from "../images/moodFM.png";
-import resume from "../images/amena-resume-winter-2023.pdf";
+import resume from "../images/amena-resume.pdf";
 
 function Main() {
     return (
