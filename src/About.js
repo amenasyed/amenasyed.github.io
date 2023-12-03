@@ -18,7 +18,7 @@ function About() {
                 <Grid item sm={12} md={6}>
                     <div className="about-text-container">
                         <h1 className="about-heading">About</h1>
-                        <p className="about-paragraph">I’m a third-year Engineering student at the<a href="https://uwaterloo.ca/biomedical-engineering/" className="underline-links">University of Waterloo</a> working towards a<a href="https://ugradcalendar.uwaterloo.ca/page/ENG-Biomedical-Engineering" className="underline-links">BASc in Biomedical Engineering.</a></p>
+                        <p className="about-paragraph">I’m a fourth-year Engineering student at the<a href="https://uwaterloo.ca/biomedical-engineering/" className="underline-links">University of Waterloo</a> working towards a<a href="https://ugradcalendar.uwaterloo.ca/page/ENG-Biomedical-Engineering" className="underline-links">BASc in Biomedical Engineering.</a></p>
 
 
                         <h3 className="about-subheading">What inspires me.</h3>
@@ -26,8 +26,8 @@ function About() {
                         <p className="about-paragraph">I’m passionate about combining the interdisciplinary aspects of design, human psychology and technology to make a lasting social impact beyond aesthetics.</p>
 
                         <h3 className="about-subheading">What I’ve been up to.</h3>
-                        <p className="about-paragraph">After wrapping up my work term at Canon Medical as a software developer, I’m back on campus for my 3A school term.</p>
-                        <p className="about-paragraph">I’m currently on the lookout for <span className="underlines">Summer 2023 SWE internship</span> opportunities! I’m eager to seek opportunities to better myself as an engineer by learning and engaging in new tech.</p>
+                        <p className="about-paragraph">After wrapping up my 3B school term, I’m back on the PlayStation grind where I'm working as a front-end developer! </p>
+                        <p className="about-paragraph">I’m currently on the lookout for <span className="underlines">2024 SWE internship</span> opportunities! I’m driven to better myself as an engineer by learning and engaging in new tech.</p>
 
 
                     </div>
@@ -49,7 +49,7 @@ function About() {
                     <Grid item className="hobby" sm={12} md={5}>
                         <h3 className="hobby-title">🧶 Avid knitter/crocheter</h3>
 
-                        <p className="hobby-content">My toxic trait is spending waaaaay too much money on yarn. It's true! Once I actually got 30+ balls of yarn at a garage sale for $10. Hence, my mum was not impressed. </p>
+                        <p className="hobby-content">My toxic trait is spending waaaaay too much money on yarn. It's true! Once I actually got 30+ balls of yarn at a garage sale for $10. My mum was not impressed. </p>
                         <ul className="hobby-content">
                             <li>🧵 First ever project: a mug cozy</li>
                             <li>👜 Latest project: a floral tote bag</li>

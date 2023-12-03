@@ -22,12 +22,17 @@ body{
 }
 
 .main-container{
-    margin-left: 120px;
+    margin-left: 150px;
+    margin-right: 100px;
   
 }
 
+.main-text{
+    width:100%;
+}
+
 .landing-page{
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 
 }
 
@@ -118,7 +123,6 @@ h1{
 
 .projects-display{
     margin-bottom: 50px;
-    margin-right: 100px;
 }
 
 .cards{
@@ -127,20 +131,33 @@ h1{
     justify-content: left;
 }
 
+.project-card{
+    margin-left: 0;
+}
+
+
+
+.project-grid{
+    justify-content: center;
+    margin-left: 0;
+}
+
 @media only screen and (max-width: 960px){
     .landing-page h1{
-        width: 100%;
+        width: 90%;
         margin-right: 10px;
         justify-content: center;
     }
     .landing-page h3{
-        width: 100%;
+        width: 90%;
         justify-content: center;
     }
 
     .main-container{
         margin-left: 50px;
         justify-content: center;
+        margin-right: 0;
+
       
     }
 
