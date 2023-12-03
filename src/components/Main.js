@@ -31,11 +31,11 @@ function Main() {
                     <h1>Life Lately</h1>
                         <Grid container spacing={3} className='project-grid'>
                             <Grid className='project-card' item>
-                                <Card title="AI Breast Cancer Classifier" date="Design Project | March 2023" tag="Software" body="Evaluating multiple Artificial Intelligence Techniques (linear, SVM, Neural Networks, Random Forest) in the classificiation of breast cancer on the Wisconsin Breast Cancer Dataset. Both custom algorithms (linear classification and SVM) and sklearn classifiers (Neural Network, Random Forest) were implemented and visualized with numpy." linkName="Github" linkURL="https://github.com/amenasyed/ai-breast-cancer-classification" imgURL={ai} ></Card>
+                                <Card title="AI Breast Cancer Classifier" date="Design Project | March 2023" tag="Software" body="Evaluating multiple Artificial Intelligence techniques (linear, SVM, Neural Networks, Random Forest) in the classificiation of breast cancer on the Wisconsin Breast Cancer Dataset. Both custom algorithms (linear classification and SVM) and sklearn classifiers (Neural Network, Random Forest) were implemented and visualized with numpy." linkName="Github" linkURL="https://github.com/amenasyed/ai-breast-cancer-classification" imgURL={ai} ></Card>
                             </Grid>
 
                             <Grid className='project-card' item>
-                                <Card title="Ma'rifa 2023 Conference Website" date="Ma'rifa Programs Inc | March 2023" tag="Hardware" body="A complete overhaul (including both design and development) of Ma'rifa's 2023 conference website, supporting 300+ attendees." linkName="GitHub" linkURL="https://github.com/mraza007/marifa/tree/amena-final" imgURL={marifa} ></Card>
+                                <Card title="Ma'rifa 2023 Conference Website" date="Ma'rifa Programs Inc | March 2023" tag="Software" body="A complete overhaul (including both design and development) of Ma'rifa's 2023 conference website, supporting 300+ attendees." linkName="GitHub" linkURL="https://github.com/mraza007/marifa/tree/amena-final" imgURL={marifa} ></Card>
                             </Grid>
 
                             <Grid className='project-card' item>

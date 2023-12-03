@@ -18,7 +18,7 @@ const workData = [
         tag:"Software",
         title: "AI-Based Classification of Breast Cancer",
         date: "Design Project | March 2023",
-        body1:"Evaluating multiple Artificial Intelligence Techniques (linear, SVM, Neural Networks, Random Forest) in the classificiation of breast cancer on the Wisconsin Breast Cancer Dataset. Both custom algorithms (linear classification and SVM) and sklearn classifiers (Neural Network, Random Forest) were implemented and visualized with numpy.",
+        body1:"Evaluating multiple Artificial Intelligence techniques (linear, SVM, Neural Networks, Random Forest) in the classificiation of breast cancer on the Wisconsin Breast Cancer Dataset. Both custom algorithms (linear classification and SVM) and sklearn classifiers (Neural Network, Random Forest) were implemented and visualized with numpy.",
         body2:"Technologies: Python (sklearn, numpy)",
         linkName:"GitHub",
         linkURL:"https://github.com/amenasyed/ai-breast-cancer-classification"
