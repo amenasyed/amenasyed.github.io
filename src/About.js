@@ -26,17 +26,17 @@ function About() {
                         <p className="about-paragraph">I’m passionate about combining the interdisciplinary aspects of design, human psychology and technology to make a lasting social impact beyond aesthetics.</p>
 
                         <h3 className="about-subheading">What I’ve been up to.</h3>
-                        <p className="about-paragraph">After wrapping up my 3B school term, I’m back on the PlayStation grind where I'm working as a front-end developer! </p>
-                        <p className="about-paragraph">I’m currently on the lookout for <span className="underlines">2024 SWE internship</span> opportunities! I’m driven to better myself as an engineer by learning and engaging in new tech.</p>
+                        <p className="about-paragraph">After wrapping up my final co-op term at PlayStation, I’m back on the school grind where I'm wrapping up my last 2 semesters of school. </p>
+                        <p className="about-paragraph">I’m currently on the lookout for <span className="underlines">2025 new grad SWE</span> opportunities! I’m driven to better myself as an engineer by learning and engaging in new tech.</p>
 
 
                     </div>
                 </Grid>
 
-                <h1 className="hobbies-title">What am I like outside of work? Glad you asked!</h1>
+                {/* <h1 className="hobbies-title">What am I like outside of work? Glad you asked!</h1> */}
             </Grid>
 
-            <Grid container className="hobbies-container" spacing={0}>
+            {/* <Grid container className="hobbies-container" spacing={0}>
                     <Grid item className="hobby" sm={12} md={5}>
                         <h3 className="hobby-title">📷 Amateur photographer</h3>
 
@@ -85,7 +85,8 @@ function About() {
                         </ul>
                     </Grid>
                     
-                </Grid>
+                </Grid> */}
+            <Grid container className="hobbies-container"></Grid>
 
             <Footer></Footer>
         </div>

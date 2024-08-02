@@ -12,12 +12,12 @@ function Main() {
         <div className="main-container">
             <div className="main-text">
                 <div className="landing-page">
-                    <h1>Hello! I'm Amena 🌼; a fourth-year biomedical engineering student ⛅ studying at the University of Waterloo 🤍</h1>
-                    <h3>Incoming<a href="https://www.playstation.com/en-ca/" className="underline">@PlayStation</a>; Previously developing<a href="https://global.medical.canon/" className="underline">@Canon</a> and<a href="https://www.centrefordigitaltherapeutics.ca/" className="underline">@University Health Network</a>.</h3>
-                    <h3>Currently seeking <span className="underline">2024 SWE internship opportunities.</span></h3>
+                    <h1>Hello! I'm Amena 🌼; I'm in my final year of engineering ⛅ at the University of Waterloo 🤍</h1>
+                    <h3>Previously developing <a href="https://www.playstation.com/en-ca/" className="underline">@PlayStation</a> <a href="https://global.medical.canon/" className="underline">@Canon</a> and<a href="https://www.centrefordigitaltherapeutics.ca/" className="underline">@University Health Network</a>.</h3>
+                    <h3>Currently seeking <span className="underline">2025 new grad SWE opportunities.</span></h3>
 
                  <div className="main-btns">
-                        <a href="#/work">
+                        <a href="/work">
                             <button href="#/work" className="btn-blue">work</button>
                         </a>
 
