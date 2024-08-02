@@ -20,7 +20,6 @@ function Main() {
                         <a href="/work">
                             <button href="#/work" className="btn-blue">work</button>
                         </a>
-
                         <a href={resume}>
                             <button className="btn-blue">resume</button>
                         </a>
